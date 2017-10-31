@@ -3,7 +3,9 @@
     "description": "MD5 encrypt",
     "license": "MIT",
     "minimum-stability": "dev",
-    "require": {},
+    "require": {
+        "sammy-lee/hasher": "dev-master"
+    },
     "autoload": {
         "psr-4": {
             "Laravist\\Hasher\\": "src/"
