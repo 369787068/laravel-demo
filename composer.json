@@ -1,0 +1,12 @@
+{
+    "name": "sammy-lee/hasher",
+    "description": "MD5 encrypt",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Laravist\\Hasher\\": "src/"
+        }
+    }
+}
